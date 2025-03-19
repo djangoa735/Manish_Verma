@@ -2,7 +2,7 @@
 👨‍💻 Manish Verma  
 
 🚀 **Ethical Hacker | Web Pentester | Bug Bounty Hunter**  
-🔍 Skilled in Web Security, XSS, SQLi, IDOR, CSRF, OSINT & more.  
+🔍 Skilled in Web Security, XSS, SQLi, IDOR, CSRF, OSINT & more.
 🏆 Reported security bugs on multiple platforms.  
 🎯 Passionate about cybersecurity & CTF challenges.  
 
